@@ -14,8 +14,6 @@
 git clone https://github.com/1071512987/LionMountainGPT.git
 ~~~
 
-这将把项目文件复制到本地计算机的 `your-repository` 文件夹中。
-
 ## 2. 查看仓库状态
 
 要查看本地仓库的当前状态，可以使用以下命令：
